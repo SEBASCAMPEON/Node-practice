@@ -1,0 +1,30 @@
+{
+  "name": "mantenimiento-backend",
+  "version": "1.0.0",
+  "description": "El backend para la plataforma de gestion de una empresa de mantenimiento de equipos de computo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mantenimiento",
+    "nodejs",
+    "express",
+    "desarrollo",
+    "buenas",
+    "practicas",
+    "angular"
+  ],
+  "author": "Sebastian Gallego",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "dev": "^0.1.3",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.7",
+    "morgan": "^1.7.0",
+    "mysql": "^2.10.2",
+    "sequelize": "^3.19.3",
+    "sequelize-cli": "^2.3.1"
+  }
+}
